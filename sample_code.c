@@ -72,7 +72,7 @@ int palindromeCheck(char *pString)
 }
 
 // Prints all subsets of N to file
-// From Petar Minchev via SO
+// Algorithm from Petar Minchev via SO
 int subsetPrint(unsigned int iNVal)
 {
 	FILE *fpSubset;
